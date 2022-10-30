@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Open Dyslexic';
+  src: url('./fonts/open_dyslexic/OpenDyslexic-Regular.otf') format('woff2');
+}
+@font-face {
+  font-family: 'Open Dyslexic Alta';
+  src: url('./fonts/open_dyslexic/OpenDyslexicAlta-Regular.otf') format('woff2');
+}
+@font-face {
+  font-family: 'Lexie Readable';
+  src: url('./fonts/LexieReadable-Regular.ttf') format('truetype');
+}
+
+body {
+  font-family: 'Lexie Readable';
+}
+
+.lexie {
+  font-family: 'Lexie Readable';
+}
+
+.open {
+  font-family: 'Open Dyslexic';
+}
+
+.open-alta {
+  font-family: 'Open Dyslexic Alta';
+}
